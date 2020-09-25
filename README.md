@@ -3,7 +3,7 @@
 ## A simple flutter interactive app that prays hanuman chalisaa
 
 
-<img src="assets/WhatsApp Image 2020-09-23 at 12.39.44 PM (1).jpeg" width="370" height="700">  &nbsp; &nbsp; &nbsp; <img src="assets/WhatsApp Image 2020-09-23 at 12.37.35 PM (1).jpeg" width="370" height="700">
+<img src="screenshot/Screenshot_20200925-122346.jpg" width="370" height="700">  &nbsp; &nbsp; &nbsp; <img src="screenshot/Screenshot_20200925-122351.jpg" width="370" height="700">
 
 
 
